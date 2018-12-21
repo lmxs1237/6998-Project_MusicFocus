@@ -10,10 +10,10 @@ AWS.config.update({
 	region: "us-east-1",
 	// accessKeyId default can be used while using the downloadable version of DynamoDB. 
 	// For security reasons, do not store AWS Credentials in your files. Use Amazon Cognito instead.
-	accessKeyId: "AKIAJDDUUDGQMKTTMIEQ",
+	accessKeyId: "",
 	// secretAccessKey default can be used while using the downloadable version of DynamoDB. 
 	// For security reasons, do not store AWS Credentials in your files. Use Amazon Cognito instead.
-	secretAccessKey: "AQATVZWWCg5IyoflsdrWcyi4W3Uo5fADjgGm7JVd"
+	secretAccessKey: ""
 	});
 
 // Create a SQS service object
