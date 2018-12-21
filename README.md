@@ -6,8 +6,10 @@
 
     a. SearchKeyWord
     
-    b. Chatbot
+    b. SearchByPhoto
     
-    c. Songlist
+    c. Chatbot
     
-    d. Contact
+    d. Songlist
+    
+    e. Contact
